@@ -1,2 +1,2 @@
 # hello
-Newbie
+Newbie development on github and netlify
